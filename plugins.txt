@@ -1,5 +1,5 @@
 # Essentials X
-https://ci.ender.zone/job/EssentialsX/lastSuccessfulBuild/artifact/jars/EssentialsX-2.21.0-dev+78-c60ed56.jar
+https://github.com/EssentialsX/Essentials/releases/download/2.20.1/EssentialsX-2.20.1.jar
 
 # Core Protect
 https://www.patreon.com/file?h=89830486&i=15920178
