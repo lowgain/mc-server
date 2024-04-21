@@ -38,13 +38,13 @@ https://www.spigotmc.org/resources/sleep-most-1-8-1-20-x-the-most-advanced-sleep
 https://www.spigotmc.org/resources/bat-membranes-replace-phantoms-with-bats-1-19-1-20.108732/download?version=490004
 
 # Graves
-https://www.spigotmc.org/resources/graves.74208/download?version=465901
+# https://www.spigotmc.org/resources/graves.74208/download?version=465901
 
 # Player stats
 https://www.spigotmc.org/resources/playerstats.102347/download?version=527087
 
 # Portal coords
-https://www.spigotmc.org/resources/netherportalcalculator-spigot-bukkit-free-download.95048/download?version=413378
+# https://www.spigotmc.org/resources/netherportalcalculator-spigot-bukkit-free-download.95048/download?version=413378
 
 # XP Bottles
-https://www.spigotmc.org/resources/bottledexp.2815/download?version=538005
+# https://www.spigotmc.org/resources/bottledexp.2815/download?version=538005
