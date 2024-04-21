@@ -1,50 +1,11 @@
-# Essentials X
-https://github.com/EssentialsX/Essentials/releases/download/2.20.1/EssentialsX-2.20.1.jar
-
 # Core Protect
 https://www.patreon.com/file?h=89830486&i=15920178
 
 # Geyser (allow bedrock/console players)
 https://download.geysermc.org/v2/projects/geyser/versions/latest/builds/latest/downloads/spigot
 
-# CMLib
-# https://www.spigotmc.org/resources/cmilib.87610/download?version=538046
-
-# Proximity Chat
-https://dev.bukkit.org/projects/simple-voice-chat/files/5207985
-
-# Vein Miner
-# https://www.spigotmc.org/resources/veinminer.12038/download?version=532425
-
 # Tree Capitator
-# https://www.spigotmc.org/resources/treecapitator.18083/download?version=67169
+https://dev.bukkit.org/projects/cristichis-tree-capitator/files/4810402
 
 # Silk touchable mob spawners
 https://dev.bukkit.org/projects/silkspawners/files/4958581
-
-# Recipe unlocker
-# https://www.spigotmc.org/resources/recipeunlocker-1-12-1-14.42109/download?version=267831
-
-# Fast Leaf Decay
-# https://www.spigotmc.org/resources/%E2%98%84%EF%B8%8F-rhleafdecay-fast-and-smooth-leaf-decay-1-13-x-1-20-x.83581/download?version=499438
-
-# AFK Display
-# https://www.spigotmc.org/resources/afk.35065/download?version=488798
-
-# multiplayer sleep
-# https://www.spigotmc.org/resources/sleep-most-1-8-1-20-x-the-most-advanced-sleep-plugin-available-percentage-animations.60623/download?version=528694
-
-# phantom removal
-# https://www.spigotmc.org/resources/bat-membranes-replace-phantoms-with-bats-1-19-1-20.108732/download?version=490004
-
-# Graves
-# https://www.spigotmc.org/resources/graves.74208/download?version=465901
-
-# Player stats
-# https://www.spigotmc.org/resources/playerstats.102347/download?version=527087
-
-# Portal coords
-# https://www.spigotmc.org/resources/netherportalcalculator-spigot-bukkit-free-download.95048/download?version=413378
-
-# XP Bottles
-# https://www.spigotmc.org/resources/bottledexp.2815/download?version=538005
