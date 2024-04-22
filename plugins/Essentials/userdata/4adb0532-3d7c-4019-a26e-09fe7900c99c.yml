@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713747146433
+  login: 1713747142074
+money: '0'
+last-account-name: papa_marshmellow
+logoutlocation:
+  world: 3b5eb6be-fcd9-40ef-a796-2d1863a65216
+  world-name: world
+  x: 84.91715933428068
+  y: 71.0
+  z: -20.523585566085565
+  yaw: -46.199920654296875
+  pitch: -0.30001020431518555
