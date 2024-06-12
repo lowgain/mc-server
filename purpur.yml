@@ -10,6 +10,7 @@
 
 verbose: false
 settings:
+  startup-commands: []
   logger:
     suppress-init-legacy-material-errors: false
     suppress-ignored-advancement-warnings: false
@@ -95,6 +96,10 @@ settings:
     death:
       only-broadcast-to-affected-player: false
   blocks:
+    magma-block:
+      reverse-bubble-column-flow: false
+    soul-sand:
+      reverse-bubble-column-flow: false
     barrel:
       rows: 3
     ender_chest:
@@ -187,7 +192,7 @@ settings:
   disable-give-dropping: false
   limit-armor: true
   register-minecraft-debug-commands: false
-config-version: 34
+config-version: 35
 world-settings:
   default:
     settings:
@@ -995,6 +1000,7 @@ world-settings:
         takes-damage-from-water: false
         always-drop-exp: false
       ravager:
+        avoid-rabbits: false
         ridable: false
         ridable-in-water: false
         controllable: true
@@ -1673,7 +1679,6 @@ world-settings:
       milk-cures-bad-omen: true
       milk-clears-beneficial-effects: true
       note-block-ignore-above: false
-      persistent-tileentity-display-names-and-lore: false
       persistent-droppable-entity-display-names: true
       projectiles-bypass-mob-griefing: false
       tick-fluids: true
@@ -1718,3 +1723,5 @@ world-settings:
           block-speed:
             grass_block: 0.3
             stone: 0.5
+      persistent-tileentity-lore: false
+      persistent-tileentity-display-name: true
